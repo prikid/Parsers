@@ -8,4 +8,4 @@ Currently released parsers:
   1
     Website:          https://www.centura.ca/en/products/tile/
     Parser main file: /centura.ca/centura_ca.py
-    Parsing result:   /centura.ca/centura_ca.csv or https://goo.gl/2QW9Pu
+    Parsing result:   /centura.ca/centura_ca.csv or https://goo.gl/phUsrs
